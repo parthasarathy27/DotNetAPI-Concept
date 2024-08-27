@@ -26,7 +26,7 @@ DotNetAPIConcept provides a starting point for creating a .NET-based API. It cov
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/DotNetAPIConcept.git
+    git clone https://github.com/parthasarathy27/DotNetAPI-Concept.git
     ```
 2. Navigate to the project directory:
     ```bash
